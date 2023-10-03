@@ -9,3 +9,5 @@
 - create pull request
 - merge code to branch Master
 - git checkout 'branch' -> git checkout master -> chuyển sang nhánh khác
+- git pull -> kéo code từ nhánh về
+- git branch -D 'branch' -> git branch -D optimize-ui
