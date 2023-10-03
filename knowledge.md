@@ -2,4 +2,8 @@
 - git add . -> đưa toàn bộ thay đổi vào Stage Changes
 - git commit -m'message' -> git commit -m'Add index.html and app .css'
 - git push
-
+- branch 
+- branch-name: feat/add-header, optimize-ui, quick-fix
+- git checkout -b 'branch' -> git checkout -b optimize-ui
+- create pull request
+- merge code to branch Master
