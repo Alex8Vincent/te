@@ -5,5 +5,6 @@
 - branch 
 - branch-name: feat/add-header, optimize-ui, quick-fix
 - git checkout -b 'branch' -> git checkout -b optimize-ui
+- Nếu chưa tồn tại dưới local thì ở giao diện Source Control sẽ có button là Publish Branch
 - create pull request
 - merge code to branch Master
