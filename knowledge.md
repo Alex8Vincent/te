@@ -8,3 +8,4 @@
 - Nếu chưa tồn tại dưới local thì ở giao diện Source Control sẽ có button là Publish Branch
 - create pull request
 - merge code to branch Master
+- git checkout 'branch' -> git checkout master -> chuyển sang nhánh khác
